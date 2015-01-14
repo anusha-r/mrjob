@@ -74,4 +74,4 @@ __credits__ = [
     'Derek Wilson <jderekwilson@gmail.com>',
 ]
 
-__version__ = '0.4.3-dev'
+__version__ = '0.4.4-dev'
